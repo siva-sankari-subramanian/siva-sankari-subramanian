@@ -3,6 +3,31 @@
 * Proven expertise in developing business-critical dashboards using TIBCO Spotfire and Power BI, analyzing complex clinical datasets, and driving data-informed decisions in regulated environments.
 * Strong programming background in SQL and Python with hands-on experience in SAP HANA and stakeholder collaboration with a strong understanding of data modelling, ETL processes and Warehousing. <br>
 
+# 💻TECHNICAL SKILLS
+**Tools:** TIBCO Spotfire, Power BI, GitHub, Excel (Macros), JIRA, Qdoc
+
+**Languages:** SQL, Python, HTML
+
+**Databases:** Oracle, MySQL, SAP HANA   
+
+**Concepts:** Data Warehousing, Data Modeling, ETL, Quality Assurance
+
+**Methodologies & Standards	:** SDTM, Agile, CSV, SDLC
+
+**OS:** Windows, Linux
+
+**Upskilling Tools:** DBT, Databricks, Airflow
+
+# 📃CERTIFICATIONS
+
+* TIBCO Spotfire Certified Developer
+
+* Google Data Analytics Professional – COURSERA
+
+* Clinical Data Standards (SDTM) – Internal Training
+
+* Power BI for Data Analysis – Udemy  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siva-sankari-subramanian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sssankarisubramanian@gmail.com) 
