@@ -1,7 +1,7 @@
 # 💫 About Me:
 * Data Analyst with 5 years of experience specializing in data visualization, analytics, and validation.
 * Proven expertise in developing business-critical dashboards using TIBCO Spotfire and Power BI, analyzing complex clinical datasets, and driving data-informed decisions in regulated environments.
-* Strong programming background in SQL and Python with hands-on experience in SAP HANA and stakeholder collaboration with a strong understanding of data modelling, ETL processes and Warehousing. <br>
+* Strong programming background in SQL and Python and stakeholder collaboration with a strong understanding of data modelling, ETL processes and Warehousing. <br>
 
 # 💻TECHNICAL SKILLS
 **Tools:** TIBCO Spotfire, Power BI, GitHub, Excel (Macros), JIRA, Qdoc
